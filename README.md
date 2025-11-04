@@ -1,6 +1,7 @@
-# IDC
-This repository contains the official implementation of the IDC Framework proposed in our paper "Input Distribution Coverage: Measuring Feature Interaction
-Adequacy in Neural Network Testing".
+reference: 
+
+# IDC paper 
+
 
 ## Datasets
 - [MNIST](http://yann.lecun.com/exdb/mnist/)
